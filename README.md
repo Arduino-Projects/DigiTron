@@ -15,3 +15,7 @@ A custom made Arduino board with a fully self-designed and soldered PCB. Has a l
 * Teacher information is displayed on their computers when their device is connected to a Computer
 * Devices communicate using the nRF24L01 radio module
 * Software for computer written in Visual Studio, in Visual Basic
+
+# Challenges & Issues
+* Getting the Radio modules to talk to each other at considerable speeds
+* Communicating the Arduino with the Computer Software
