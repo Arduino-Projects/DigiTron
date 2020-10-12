@@ -22,4 +22,7 @@ Being a high school student myself, I have been using Scantrons for many years. 
 * Getting the Radio modules to talk to each other at considerable speeds
 * Communicating the Arduino with the Computer Software
 
+# Devpost - Project Link
+https://devpost.com/software/digitron-a-digital-scantron
+
 ![Student Device](Images/StudentDevice.jpg)
