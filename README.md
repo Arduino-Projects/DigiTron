@@ -9,5 +9,9 @@ A custom made Arduino board with a fully self-designed and soldered PCB. Has a l
 * Teacher devices allow them to set up test sizes, marking schemes, learning points, and many other things
 * Most importantly, through an algorithm, it is able to provide general feedback on weak students, by measuring their question lengths, and students who may be involved in cheating
 
-# Issues
-I had a LOT of trouble getting the bootloader onto the ATMEGA328P Chip. This is because for the two capacitors that go to the crystal clock chip, I had mistakenly put on 22uF capacitors instead of 22pF capacitors. This lead to weeks of troubleshooting and getting very confused. Luckily, I looked back at my schematic and found my issue within a few weeks, and the board worked perfectly!
+# How I Built It
+* An Arduino for both the student and teacher devices
+* Student information is displayed on a small OLED Display
+* Teacher information is displayed on their computers when their device is connected to a Computer
+* Devices communicate using the nRF24L01 radio module
+* Software for computer written in Visual Studio, in Visual Basic
