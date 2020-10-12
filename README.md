@@ -21,3 +21,5 @@ Being a high school student myself, I have been using Scantrons for many years. 
 # Challenges & Issues
 * Getting the Radio modules to talk to each other at considerable speeds
 * Communicating the Arduino with the Computer Software
+
+![Student Device](Images/StudentDevice.png)
