@@ -1,5 +1,7 @@
 # DigiTron - A Digital Scantron System
-A custom made Arduino board with a fully self-designed and soldered PCB. Has a lot of additional on board sensors and outputs that the normal arduino does not have, including an Accelerometer, a Gyroscope, a potentiometer, a photoresistor, an OLED display, an ultrasonic sensor, a microphone, a buzzer, 4 LEDs, and two General Purpose Buttons. All the necessary sketching, wiring, and soldering for each of these components was done by myself.
+Being a high school student myself, I have been using Scantrons for many years. Whereas they do make marking easier for the teachers relative to the native multiple choice question system, digiTron further simplifies this process by marking the tests as soon as the student is done! Students like me always have that feeling of doubt when changing their answer on a scantron, "What if it doesn't get erased fully? What if it reads my answer wrong?". And from personal experiences, I have ran into multiple situations where the scantron would mark my answer incorrectly! The digiTron completely eliminates this possibility of unsure as it is completely digital! Scantron paper is also quite pricey, whereas digiTron's are a one-time investment of only $7 per person! DigiTron will truly make school life better and easier for high-school students such as myself
+
+
 
 # Purpose
 * There are two types of devices
