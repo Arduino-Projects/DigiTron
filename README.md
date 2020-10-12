@@ -1,4 +1,4 @@
-# Fullduino - My Homemade Custom Arduino Board
+# DigiTron - A Digital Scantron System (Hack The Hammer II) (Second Place)
 A custom made Arduino board with a fully self-designed and soldered PCB. Has a lot of additional on board sensors and outputs that the normal arduino does not have, including an Accelerometer, a Gyroscope, a potentiometer, a photoresistor, an OLED display, an ultrasonic sensor, a microphone, a buzzer, 4 LEDs, and two General Purpose Buttons. All the necessary sketching, wiring, and soldering for each of these components was done by myself.
 
 # Purpose
